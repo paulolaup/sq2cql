@@ -1,0 +1,23 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1815",
+            "display": "bupivacaine"
+          }
+        ],
+        "context": {
+          "code": "AllergyIntolerance",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "AllergyIntolerance"
+        }
+      }
+    ]
+  ]
+}

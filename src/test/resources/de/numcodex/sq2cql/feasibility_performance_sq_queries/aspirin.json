@@ -1,0 +1,5498 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2047428",
+            "display": "{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet [Excedrin PM Triple Action]) } Pack [Excedrin PM Triple Action Caplets and Excedrin Extra Strength Pain Reliever]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1730187",
+            "display": "{1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) / 1 (aspirin 500 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) } Pack"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2047427",
+            "display": "{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet) } Pack"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2565492",
+            "display": "{1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) / 1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) } Pack"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2664074",
+            "display": "{1 (aspirin 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) / 1 (aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet) } Pack"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "904664",
+            "display": "{30 (aspirin 325 MG Oral Tablet) / 30 (pravastatin sodium 80 MG Oral Tablet) } Pack"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "904668",
+            "display": "{30 (aspirin 81 MG Oral Tablet) / 30 (pravastatin sodium 40 MG Oral Tablet) } Pack"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1191",
+            "display": "aspirin"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1006995",
+            "display": "aluminum hydroxide / aspirin / caffeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007005",
+            "display": "aspirin / quinine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007112",
+            "display": "aspirin / pyridinolcarbamate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007240",
+            "display": "acetiamine / aspirin"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007337",
+            "display": "aspirin / isosorbide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007353",
+            "display": "aspirin / chlorpheniramine / dextromethorphan"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007407",
+            "display": "ascorbic acid / aspirin / cysteine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007424",
+            "display": "ascorbic acid / aspirin / diphenylpyraline"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007472",
+            "display": "aspirin / chlormezanone"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1007613",
+            "display": "aspirin / chlorpheniramine / dextromethorphan / phenylpropanolamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008006",
+            "display": "aspirin / caffeine / magnesium salicylate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008080",
+            "display": "aspirin / methylprednisolone"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008684",
+            "display": "aspirin / lithium / quinine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008791",
+            "display": "aspirin / caffeine / magnesium carbonate / magnesium salicylate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008832",
+            "display": "aspirin / sulfur"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008877",
+            "display": "aspirin / chlorpheniramine / pseudoephedrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1008988",
+            "display": "aspirin / nafronyl"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1009038",
+            "display": "aspirin / papaverine / phenobarbital"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1053102",
+            "display": "aspirin / dextromethorphan / phenylephrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1053120",
+            "display": "aspirin / dextromethorphan / doxylamine / phenylephrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1111420",
+            "display": "aspirin / chlorpheniramine / dextromethorphan / phenylephrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "135095",
+            "display": "aspirin / codeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1534422",
+            "display": "aspirin / carbidopa"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1593109",
+            "display": "acetaminophen / aspirin / diphenhydramine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811630",
+            "display": "aspirin / omeprazole"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214160",
+            "display": "aspirin / butalbital / caffeine / codeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214249",
+            "display": "aspirin / butalbital"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214250",
+            "display": "aspirin / caffeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214251",
+            "display": "aspirin / carisoprodol"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214253",
+            "display": "aspirin / hydrocodone"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214254",
+            "display": "aspirin / meprobamate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214255",
+            "display": "aspirin / methocarbamol"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214256",
+            "display": "aspirin / oxycodone"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214257",
+            "display": "aspirin / pentazocine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214258",
+            "display": "aspirin / phenyltoloxamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "214259",
+            "display": "aspirin / pseudoephedrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "215451",
+            "display": "aspirin / oxycodone hydrochloride / oxycodone terephthalate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "226716",
+            "display": "aspirin / dipyridamole"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2394058",
+            "display": "aspirin / menthol"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "282422",
+            "display": "aspirin / butalbital / caffeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "392499",
+            "display": "aspirin / glycine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "466424",
+            "display": "aspirin / caffeine / cinnamedrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "466549",
+            "display": "aspirin / caffeine / orphenadrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "466584",
+            "display": "acetaminophen / aspirin / caffeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "669119",
+            "display": "aspirin / diphenhydramine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "687078",
+            "display": "acetaminophen / aspirin"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689502",
+            "display": "aluminum hydroxide / aspirin / calcium carbonate / magnesium hydroxide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689507",
+            "display": "aspirin / butalbital / caffeine / phenacetin"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689509",
+            "display": "aspirin / caffeine / chlorpheniramine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689511",
+            "display": "aspirin / caffeine / codeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689512",
+            "display": "aspirin / caffeine / dihydrocodeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689513",
+            "display": "aspirin / caffeine / dihydrocodeine / promethazine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689515",
+            "display": "aspirin / caffeine / hydrocodone"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689516",
+            "display": "aspirin / caffeine / ipecac / opium"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689518",
+            "display": "aspirin / caffeine / propoxyphene"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689519",
+            "display": "aspirin / caffeine / salicylamide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689522",
+            "display": "aspirin / carisoprodol / codeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689524",
+            "display": "aspirin / citric acid / sodium bicarbonate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689529",
+            "display": "aspirin / ethoheptazine / meprobamate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689540",
+            "display": "aspirin / promethazine / pseudoephedrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689541",
+            "display": "aspirin / propoxyphene"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689551",
+            "display": "acetaminophen / aspirin / caffeine / calcium gluconate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689552",
+            "display": "acetaminophen / aspirin / caffeine / codeine / salicylamide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689553",
+            "display": "acetaminophen / aspirin / caffeine / hydrocodone"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689554",
+            "display": "acetaminophen / aspirin / caffeine / salicylamide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689555",
+            "display": "acetaminophen / aspirin / codeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "689556",
+            "display": "acetaminophen / aspirin / phenylpropanolamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "690996",
+            "display": "aluminum hydroxide / aspirin / codeine / magnesium hydroxide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "690997",
+            "display": "aluminum hydroxide / aspirin / magnesium hydroxide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "812525",
+            "display": "aspirin / phenobarbital"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "813961",
+            "display": "ascorbic acid / aspirin"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "814664",
+            "display": "aspirin / phenylephrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "815052",
+            "display": "aspirin / diphenhydramine / phenylpropanolamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "816174",
+            "display": "aspirin / chlorpheniramine / phenylpropanolamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "816812",
+            "display": "acetanilide / aspirin / caffeine / ephedrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "816818",
+            "display": "aspirin / chlorpheniramine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "817275",
+            "display": "aspirin / brompheniramine / dextromethorphan / phenylpropanolamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "817405",
+            "display": "aspirin / phenylpropanolamine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "817455",
+            "display": "ascorbic acid / aspirin / caffeine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "817778",
+            "display": "aspirin / caffeine / quinine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "817958",
+            "display": "aspirin / calcium carbonate"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "818496",
+            "display": "aspirin / chlorpheniramine / phenylephrine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "819659",
+            "display": "aspirin / papain"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "819817",
+            "display": "aspirin / cyclizine"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "820701",
+            "display": "acetaminophen / aspirin / salicylamide"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1001476",
+            "display": "aspirin 325 MG Delayed Release Oral Tablet [Ecpirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1052416",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Pamprin Max Formula]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1052678",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet [Miniprin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1053327",
+            "display": "aspirin 845 MG / caffeine 65 MG Oral Powder [Stanback Headache Powder Reformulated Jan 2011]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1101754",
+            "display": "acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG Oral Tablet [Vanquish]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1189781",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet [Ecotrin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1247397",
+            "display": "aspirin 1000 MG / caffeine 65 MG Oral Powder [BC Arthritis]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1247402",
+            "display": "aspirin 845 MG / caffeine 65 MG Oral Powder [BC Original Formula]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1250909",
+            "display": "aspirin 500 MG / diphenhydramine citrate 38.3 MG Oral Tablet [Bayer Aspirin PM Reformulated Nov 2011]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1293665",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet [Aspir-Low]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1303159",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Arthriten Inflammatory Pain]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1304215",
+            "display": "aspirin 500 MG / caffeine 32.5 MG Oral Tablet [Bayer Headache Relief]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1358853",
+            "display": "acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG Oral Tablet [Exaprin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1361402",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Backaid IPF]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1362082",
+            "display": "12 HR aspirin 25 MG / dipyridamole 200 MG Extended Release Oral Capsule [Aggrenox]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536680",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536835",
+            "display": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Effervescent Oral Tablet [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1537012",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet [Bromo Seltzer Antacid Pain Reliever]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1593116",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet [Excedrin PM Triple Action]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1600991",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet [Aspi-Cor]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1665362",
+            "display": "24 HR aspirin 162.5 MG Extended Release Oral Capsule [Durlaza]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1722695",
+            "display": "aspirin 81 MG / calcium carbonate 777 MG Oral Tablet [Bayer Womens]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811916",
+            "display": "aspirin 325 MG / omeprazole 40 MG Delayed Release Oral Tablet [Yosprala]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811918",
+            "display": "aspirin 81 MG / omeprazole 40 MG Delayed Release Oral Tablet [Yosprala]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1872088",
+            "display": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Granules for Oral Solution [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1925790",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG Effervescent Oral Tablet [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1944113",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Arthriten Max]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "209468",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "209823",
+            "display": "aspirin 325 MG / meprobamate 200 MG Oral Tablet [Equagesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "210864",
+            "display": "acetaminophen 115 MG / aspirin 210 MG / caffeine 16 MG / salicylamide 65 MG Oral Tablet [Saleto]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211292",
+            "display": "aspirin 400 MG / caffeine 32 MG Oral Tablet [Anacin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211297",
+            "display": "aspirin 400 MG / caffeine 32 MG Oral Tablet [P-A-C Analgesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211310",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule [Fiorinal]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211832",
+            "display": "aspirin 81 MG Chewable Tablet [St. Joseph Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211874",
+            "display": "aspirin 325 MG Oral Tablet [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211881",
+            "display": "aspirin 325 MG Oral Tablet [Norwich Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211887",
+            "display": "aspirin 500 MG Oral Tablet [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "211891",
+            "display": "aspirin 500 MG Oral Tablet [Norwich Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "212086",
+            "display": "aspirin 325 MG Delayed Release Oral Tablet [Ecotrin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2563428",
+            "display": "aspirin 325 MG Oral Capsule [Vazalore]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2563431",
+            "display": "aspirin 81 MG Oral Capsule [Vazalore]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "260847",
+            "display": "aspirin 325 MG Oral Tablet [Bufferin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "387090",
+            "display": "aspirin 325 MG Delayed Release Oral Tablet [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "608696",
+            "display": "aspirin 500 MG / caffeine 32 MG Oral Tablet [Anacin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "702320",
+            "display": "aspirin 500 MG / caffeine 32.5 MG Oral Tablet [Bayer Back and Body Pain]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "723530",
+            "display": "acetaminophen 250 MG / aspirin 250 MG Oral Tablet [Excedrin Back & Body]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "723533",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Anacin Advanced Headache Formula]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "724444",
+            "display": "aspirin 81 MG Oral Tablet [Anacin Aspirin Regimen]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "749795",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet [St. Joseph Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "794229",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "825180",
+            "display": "aspirin 81 MG Chewable Tablet [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "848166",
+            "display": "aspirin 500 MG Oral Tablet [Bufferin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "848928",
+            "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet [Endodan Reformulated May 2009]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "853501",
+            "display": "aspirin 228 MG Chewing Gum [Aspergum]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994239",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule [Ascomp]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994277",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule [Fiorinal with Codeine]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994530",
+            "display": "aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet [Norgesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994537",
+            "display": "aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet [Norgesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994539",
+            "display": "aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet [Orphengesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1001474",
+            "display": "aspirin 325 MG [Ecpirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1052414",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Pamprin Max Formula]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1053325",
+            "display": "aspirin 845 MG / caffeine 65 MG [Stanback Headache Powder Reformulated Jan 2011]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1101753",
+            "display": "acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG [Vanquish]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1189780",
+            "display": "aspirin 81 MG [Ecotrin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1247394",
+            "display": "aspirin 1000 MG / caffeine 65 MG [BC Arthritis]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1247399",
+            "display": "aspirin 845 MG / caffeine 65 MG [BC Original Formula]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1250908",
+            "display": "aspirin 500 MG / diphenhydramine citrate 38.3 MG [Bayer Aspirin PM Reformulated Nov 2011]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1293661",
+            "display": "aspirin 81 MG [Aspir-Low]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1297835",
+            "display": "aspirin 500 MG / caffeine 32.5 MG [Bayer Headache Relief]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1303155",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Arthriten Inflammatory Pain]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1358849",
+            "display": "acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG [Exaprin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1361398",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Backaid IPF]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536678",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536834",
+            "display": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1537010",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG [Bromo Seltzer Antacid Pain Reliever]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1593112",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG [Excedrin PM Triple Action]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1600987",
+            "display": "aspirin 81 MG [Aspi-Cor]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1665358",
+            "display": "aspirin 162.5 MG [Durlaza]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1722691",
+            "display": "aspirin 81 MG / calcium carbonate 777 MG [Bayer Womens]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811912",
+            "display": "aspirin 325 MG / omeprazole 40 MG [Yosprala]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811917",
+            "display": "aspirin 81 MG / omeprazole 40 MG [Yosprala]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1925789",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG [Alka-Seltzer]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1944109",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Arthriten Max]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2563424",
+            "display": "aspirin 325 MG [Vazalore]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2563430",
+            "display": "aspirin 81 MG [Vazalore]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "570079",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Excedrin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "570399",
+            "display": "aspirin 325 MG / meprobamate 200 MG [Equagesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "571342",
+            "display": "acetaminophen 115 MG / aspirin 210 MG / caffeine 16 MG / salicylamide 65 MG [Saleto]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "571734",
+            "display": "aspirin 400 MG / caffeine 32 MG [Anacin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "571739",
+            "display": "aspirin 400 MG / caffeine 32 MG [P-A-C Analgesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "571752",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG [Fiorinal]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "572163",
+            "display": "aspirin 81 MG [St. Joseph Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "572203",
+            "display": "aspirin 325 MG [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "572210",
+            "display": "aspirin 325 MG [Norwich Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "572216",
+            "display": "aspirin 500 MG [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "572220",
+            "display": "aspirin 500 MG [Norwich Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "572393",
+            "display": "aspirin 325 MG [Ecotrin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "574308",
+            "display": "aspirin 325 MG [Bufferin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "574548",
+            "display": "aspirin 25 MG / dipyridamole 200 MG [Aggrenox]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "608695",
+            "display": "aspirin 500 MG / caffeine 32 MG [Anacin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "702318",
+            "display": "aspirin 500 MG / caffeine 32.5 MG [Bayer Back and Body Pain]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "723528",
+            "display": "acetaminophen 250 MG / aspirin 250 MG [Excedrin Back & Body]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "723531",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG [Anacin Advanced Headache Formula]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "724442",
+            "display": "aspirin 81 MG [Anacin Aspirin Regimen]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "794228",
+            "display": "aspirin 81 MG [Bayer Aspirin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "847089",
+            "display": "aspirin 81 MG [Miniprin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "848165",
+            "display": "aspirin 500 MG [Bufferin]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "848927",
+            "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG [Endodan Reformulated May 2009]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "853500",
+            "display": "aspirin 228 MG [Aspergum]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994238",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG [Ascomp]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994276",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG [Fiorinal with Codeine]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994529",
+            "display": "aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG [Norgesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994536",
+            "display": "aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG [Norgesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994538",
+            "display": "aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG [Orphengesic]"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "103863",
+            "display": "aspirin 150 MG Rectal Suppository"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "103954",
+            "display": "aspirin 75 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "104474",
+            "display": "aspirin 75 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "104475",
+            "display": "aspirin 75 MG Disintegrating Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "104899",
+            "display": "aspirin 300 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "106809",
+            "display": "aspirin 500 MG / glycine 133 MG Disintegrating Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1092398",
+            "display": "aspirin 500 MG / diphenhydramine hydrochloride 25 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1234872",
+            "display": "aspirin 356.4 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1250907",
+            "display": "aspirin 500 MG / diphenhydramine citrate 38.3 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1291868",
+            "display": "aspirin 325 MG / diphenhydramine citrate 38 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1433630",
+            "display": "aspirin 120 MG Chewable Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536467",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536498",
+            "display": "aspirin 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536503",
+            "display": "aspirin 500 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536675",
+            "display": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536815",
+            "display": "aspirin 500 MG / caffeine 65 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536833",
+            "display": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536840",
+            "display": "aspirin 325 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1536993",
+            "display": "aspirin 500 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 8 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1537019",
+            "display": "aspirin 500 MG / caffeine 60 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1537029",
+            "display": "aspirin 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1593110",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1665356",
+            "display": "24 HR aspirin 162.5 MG Extended Release Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1722689",
+            "display": "aspirin 81 MG / calcium carbonate 777 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811631",
+            "display": "aspirin 81 MG / omeprazole 40 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1811632",
+            "display": "aspirin 325 MG / omeprazole 40 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1872085",
+            "display": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Granules for Oral Solution"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "197447",
+            "display": "aspirin 325 MG / carisoprodol 200 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "197930",
+            "display": "aspirin 325 MG / meprobamate 200 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "197945",
+            "display": "aspirin 325 MG / methocarbamol 400 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198461",
+            "display": "aspirin 120 MG Rectal Suppository"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198463",
+            "display": "aspirin 200 MG Rectal Suppository"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198464",
+            "display": "aspirin 300 MG Rectal Suppository"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198466",
+            "display": "aspirin 325 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198467",
+            "display": "aspirin 325 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198471",
+            "display": "aspirin 500 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198473",
+            "display": "aspirin 600 MG Rectal Suppository"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198475",
+            "display": "aspirin 650 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198477",
+            "display": "aspirin 162 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198479",
+            "display": "aspirin 400 MG / caffeine 32 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "198480",
+            "display": "aspirin 500 MG / caffeine 32 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "199281",
+            "display": "aspirin 300 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "205251",
+            "display": "acetaminophen 160 MG / aspirin 230 MG / caffeine 33 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "212033",
+            "display": "aspirin 325 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2267026",
+            "display": "aspirin 1000 MG / caffeine 150 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2360605",
+            "display": "acetaminophen 500 MG / aspirin 500 MG / caffeine 65 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "238134",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "238135",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2393784",
+            "display": "aspirin 6 MG/ML Oral Spray"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2394061",
+            "display": "aspirin 6 MG / menthol 5 MG Oral Lozenge"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "243670",
+            "display": "aspirin 81 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "243685",
+            "display": "aspirin 421 MG / caffeine 32 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "243694",
+            "display": "acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "246461",
+            "display": "aspirin 100 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "247137",
+            "display": "aspirin 650 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "252857",
+            "display": "aspirin 81 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2565491",
+            "display": "aspirin 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine bitartrate 7.8 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2583731",
+            "display": "aspirin 500 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "259081",
+            "display": "12 HR aspirin 25 MG / dipyridamole 200 MG Extended Release Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2606079",
+            "display": "aspirin 325 MG Effervescent Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2626726",
+            "display": "aspirin 650 MG / caffeine 65 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2668107",
+            "display": "aspirin 81 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308278",
+            "display": "acetaminophen 115 MG / aspirin 210 MG / caffeine 16 MG / salicylamide 65 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308297",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308363",
+            "display": "aspirin 325 MG / caffeine 16 MG / salicylamide 95 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308403",
+            "display": "aspirin 165 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308409",
+            "display": "aspirin 500 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308411",
+            "display": "aspirin 650 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308416",
+            "display": "aspirin 81 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "308417",
+            "display": "aspirin 975 MG Delayed Release Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "318272",
+            "display": "aspirin 81 MG Chewable Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "333834",
+            "display": "aspirin 60 MG Chewable Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "349516",
+            "display": "aspirin 800 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "359221",
+            "display": "acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "391930",
+            "display": "aspirin 975 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "432638",
+            "display": "acetaminophen 250 MG / aspirin 250 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "433353",
+            "display": "aspirin 300 MG Chewable Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "605252",
+            "display": "aspirin 650 MG / caffeine 33.3 MG / salicylamide 195 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "637540",
+            "display": "aspirin 325 MG / oxycodone hydrochloride 4.5 MG / oxycodone terephthalate 0.38 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "685589",
+            "display": "aspirin 1.5 MG/ML Oral Solution"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "688214",
+            "display": "aspirin 2.5 MG/ML Oral Solution"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "692836",
+            "display": "acetaminophen 325 MG / aspirin 500 MG / caffeine 65 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "702316",
+            "display": "aspirin 500 MG / caffeine 32.5 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "724614",
+            "display": "aspirin 325 MG / oxycodone hydrochloride 2.25 MG / oxycodone terephthalate 0.19 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "763111",
+            "display": "acetaminophen 325 MG / aspirin 500 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "763116",
+            "display": "acetaminophen 260 MG / aspirin 520 MG / caffeine 32.5 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "797050",
+            "display": "aspirin 650 MG / caffeine 32 MG / salicylamide 200 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "806446",
+            "display": "aspirin 500 MG / caffeine 65 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "827318",
+            "display": "acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "828585",
+            "display": "aspirin 389 MG / caffeine 32.4 MG / propoxyphene hydrochloride 32 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "828594",
+            "display": "aspirin 389 MG / caffeine 32.4 MG / propoxyphene hydrochloride 65 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "848768",
+            "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "853499",
+            "display": "aspirin 228 MG Chewing Gum"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "857121",
+            "display": "aspirin 500 MG / hydrocodone bitartrate 5 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "863184",
+            "display": "aspirin 360 MG / caffeine 75 MG / magnesium carbonate 100 MG / magnesium salicylate 60 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "863186",
+            "display": "aspirin 410 MG / caffeine 60 MG / salicylamide 30 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "891134",
+            "display": "aspirin 15600 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "891136",
+            "display": "aspirin 31200 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "892160",
+            "display": "aspirin 3900 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "896884",
+            "display": "aspirin 742 MG / caffeine 38 MG / salicylamide 222 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "900470",
+            "display": "aspirin 1 MG/MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "900528",
+            "display": "aspirin 850 MG / caffeine 65 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994226",
+            "display": "aspirin 325 MG / carisoprodol 200 MG / codeine phosphate 16 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994237",
+            "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994430",
+            "display": "aspirin 1000 MG / caffeine 65 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994435",
+            "display": "aspirin 845 MG / caffeine 65 MG Oral Powder"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994528",
+            "display": "aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994535",
+            "display": "aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994810",
+            "display": "aspirin 428 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994811",
+            "display": "aspirin 856 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "996988",
+            "display": "aspirin 300 MG / codeine phosphate 8 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "996991",
+            "display": "aspirin 325 MG / codeine phosphate 30 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "996994",
+            "display": "aspirin 325 MG / codeine phosphate 60 MG Oral Tablet"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "1665355",
+            "display": "aspirin 162.5 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2393781",
+            "display": "aspirin 6 MG/ML"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2394057",
+            "display": "aspirin 6 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315413",
+            "display": "aspirin 150 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315414",
+            "display": "aspirin 165 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315418",
+            "display": "aspirin 300 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315420",
+            "display": "aspirin 356.4 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315422",
+            "display": "aspirin 400 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315424",
+            "display": "aspirin 500 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315425",
+            "display": "aspirin 60 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315426",
+            "display": "aspirin 600 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315428",
+            "display": "aspirin 650 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315429",
+            "display": "aspirin 75 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315430",
+            "display": "aspirin 800 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315431",
+            "display": "aspirin 81 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315432",
+            "display": "aspirin 850 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "315433",
+            "display": "aspirin 975 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "317297",
+            "display": "aspirin 120 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "317298",
+            "display": "aspirin 162 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "317299",
+            "display": "aspirin 200 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "317300",
+            "display": "aspirin 325 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "329292",
+            "display": "aspirin 100 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "329294",
+            "display": "aspirin 421 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "329295",
+            "display": "aspirin 25 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "329547",
+            "display": "aspirin 228 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "332336",
+            "display": "aspirin 520 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "335933",
+            "display": "aspirin 389 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "335953",
+            "display": "aspirin 250 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "335990",
+            "display": "aspirin 742 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "335993",
+            "display": "aspirin 210 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "336010",
+            "display": "aspirin 385 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "336012",
+            "display": "aspirin 770 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "336028",
+            "display": "aspirin 230 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "336430",
+            "display": "aspirin 227 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "350459",
+            "display": "aspirin 428 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "350460",
+            "display": "aspirin 856 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "647977",
+            "display": "aspirin 360 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "685588",
+            "display": "aspirin 1.5 MG/ML"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "688213",
+            "display": "aspirin 2.5 MG/ML"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "863185",
+            "display": "aspirin 410 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "891133",
+            "display": "aspirin 15600 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "891135",
+            "display": "aspirin 31200 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "892159",
+            "display": "aspirin 3900 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "900469",
+            "display": "aspirin 1 MG/MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994429",
+            "display": "aspirin 1000 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "994434",
+            "display": "aspirin 845 MG"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      }
+    ]
+  ]
+}

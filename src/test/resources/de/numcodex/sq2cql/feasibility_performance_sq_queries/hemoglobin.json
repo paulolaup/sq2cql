@@ -1,0 +1,104 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "code": "718-7",
+            "system": "http://loinc.org",
+            "display": "Hemoglobin [Mass/volume] in Blood"
+          }
+        ],
+        "context": {
+          "code": "Laboruntersuchung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Laboruntersuchung"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "comparator": "gt",
+          "unit": {
+            "code": "g/dL",
+            "display": "g/dL"
+          },
+          "value": 9
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "code": "17856-6",
+            "system": "http://loinc.org",
+            "display": "Hemoglobin A1c/Hemoglobin.total in Blood by HPLC"
+          }
+        ],
+        "context": {
+          "code": "Laboruntersuchung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Laboruntersuchung"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "comparator": "gt",
+          "unit": {
+            "code": "%",
+            "display": "%"
+          },
+          "value": 9
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "code": "4548-4",
+            "system": "http://loinc.org",
+            "display": "Hemoglobin A1c/Hemoglobin.total in Blood"
+          }
+        ],
+        "context": {
+          "code": "Laboruntersuchung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Laboruntersuchung"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "comparator": "gt",
+          "unit": {
+            "code": "%",
+            "display": "%"
+          },
+          "value": 9
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "code": "4549-2",
+            "system": "http://loinc.org",
+            "display": "Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis"
+          }
+        ],
+        "context": {
+          "code": "Laboruntersuchung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Laboruntersuchung"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "comparator": "gt",
+          "unit": {
+            "code": "%",
+            "display": "%"
+          },
+          "value": 9
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "code": "424144002",
+            "system": "http://snomed.info/sct",
+            "display": "Gegenw\u00c3\u00a4rtiges chronologisches Alter"
+          }
+        ],
+        "context": {
+          "code": "Patient",
+          "system": "fdpg.mii.cds",
+          "version": "1.0.0",
+          "display": "Patient"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "unit": {
+            "code": "a",
+            "display": "a"
+          },
+          "value": 18,
+          "comparator": "gt"
+        }
+      }
+    ]
+  ],
+  "exclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "code": "263495000",
+            "system": "http://snomed.info/sct",
+            "display": "Geschlecht"
+          }
+        ],
+        "context": {
+          "code": "Patient",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Patient"
+        },
+        "valueFilter": {
+          "type": "concept",
+          "selectedConcepts": [
+            {
+              "code": "female",
+              "system": "http://hl7.org/fhir/administrative-gender",
+              "display": "Female"
+            }
+          ]
+        }
+      },
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "77386006",
+            "display": "Pregnancy (finding)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "code": "2183102",
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "display": "pexidartinib"
+          }
+        ],
+        "context": {
+          "code": "AllergyIntolerance",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "AllergyIntolerance"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "code": "357977",
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "display": "sunitinib"
+          }
+        ],
+        "context": {
+          "code": "AllergyIntolerance",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "AllergyIntolerance"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "66071002",
+            "display": "Viral hepatitis type B (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "50711007",
+            "display": " Viral hepatitis type C (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "235856003",
+            "display": "Disorder of liver (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "39621005",
+            "display": "Disorder of gallbladder (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "233703007",
+            "display": " Interstitial lung disease (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "417746004",
+            "display": "Traumatic injury (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "363346000",
+            "display": "Malignant neoplastic disease (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "387713003",
+            "display": "Surgical procedure (procedure)"
+          }
+        ],
+        "context": {
+          "code": "Procedure",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Prozedur"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "417746004",
+            "display": "Traumatic injury (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Procedure",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Prozedur"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ]
+  ]
+}

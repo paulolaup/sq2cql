@@ -1,0 +1,190 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "code": "424144002",
+            "system": "http://snomed.info/sct",
+            "display": "Gegenw\u00c3\u00a4rtiges chronologisches Alter"
+          }
+        ],
+        "context": {
+          "code": "Patient",
+          "system": "fdpg.mii.cds",
+          "version": "1.0.0",
+          "display": "Patient"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "unit": {
+            "code": "a",
+            "display": "a"
+          },
+          "value": 18,
+          "comparator": "gt"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "371073003",
+            "display": "Postural orthostatic tachycardia syndrome (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "code": "72166-2",
+            "system": "http://loinc.org",
+            "display": "Tobacco smoking status"
+          }
+        ],
+        "context": {
+          "code": "Laboruntersuchung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Laboruntersuchung"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01",
+          "afterDate": "2022-10-01"
+        },
+        "valueFilter": {
+          "selectedConcepts": [
+            {
+              "code": "266919005",
+              "display": "Never smoked tobacco (finding)",
+              "system": "http://snomed.info/sct"
+            },
+            {
+              "code": "8517006",
+              "display": "Ex-smoker (finding)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "type": "concept"
+        }
+      }
+    ]
+  ],
+  "exclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "34095006",
+            "display": "Dehydration (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "397923000",
+            "display": "Somatization disorder (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "77386006",
+            "display": "Pregnancy (finding)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "48447003",
+            "display": "Chronic heart failure (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "19829001",
+            "display": "Disorder of lung (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ]
+  ]
+}

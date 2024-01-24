@@ -1,0 +1,23 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+            "code": "2045404",
+            "display": "0.005 ML dexamethasone 103.4 MG/ML Injection"
+          }
+        ],
+        "context": {
+          "code": "Medikamentenverabreichung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Verabreichung von Medikamenten"
+        }
+      }
+    ]
+  ]
+}

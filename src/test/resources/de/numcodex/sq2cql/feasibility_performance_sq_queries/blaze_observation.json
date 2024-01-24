@@ -1,0 +1,32 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "code": "753-4",
+            "system": "http://loinc.org",
+            "display": "Neutrophils [#/volume] in Blood by Manual count"
+          }
+        ],
+        "context": {
+          "code": "Laboruntersuchung",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Laboruntersuchung"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "comparator": "gt",
+          "unit": {
+            "code": "10*3/uL",
+            "display": "10*3/uL"
+          },
+          "value": 9999
+        }
+      }
+    ]
+  ]
+}

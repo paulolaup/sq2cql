@@ -1,0 +1,23 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "73211009",
+            "display": "Diabetes mellitus (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        }
+      }
+    ]
+  ]
+}

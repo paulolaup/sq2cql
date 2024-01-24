@@ -36,3 +36,6 @@ build/
 .mvn
 mvnw
 mvnw.cmd
+
+# Queries
+/cql_queries

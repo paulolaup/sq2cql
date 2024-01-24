@@ -1,0 +1,94 @@
+{
+  "version": "http://to_be_decided.com/draft-1/schema#",
+  "display": "",
+  "inclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "code": "424144002",
+            "system": "http://snomed.info/sct",
+            "display": "Gegenw\u00c3\u00a4rtiges chronologisches Alter"
+          }
+        ],
+        "context": {
+          "code": "Patient",
+          "system": "fdpg.mii.cds",
+          "version": "1.0.0",
+          "display": "Patient"
+        },
+        "valueFilter": {
+          "type": "quantity-comparator",
+          "unit": {
+            "code": "a",
+            "display": "a"
+          },
+          "value": 18,
+          "comparator": "gt"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "40930008",
+            "display": "Hypothyroidism (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ],
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "90739004",
+            "display": "Thyrotoxicosis (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ]
+  ],
+  "exclusionCriteria": [
+    [
+      {
+        "termCodes": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "698247007",
+            "display": "Cardiac arrhythmia (disorder)"
+          }
+        ],
+        "context": {
+          "code": "Diagnose",
+          "system": "fdpg.mii.synthea",
+          "version": "1.0.0",
+          "display": "Diagnose"
+        },
+        "timeRestriction": {
+          "beforeDate": "2023-10-01"
+        }
+      }
+    ]
+  ]
+}
